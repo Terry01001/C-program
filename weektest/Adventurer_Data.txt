@@ -1,0 +1,5 @@
+Player Name:Ted
+Player LV:1
+Player EXP:0
+Player HP:100
+Player Money:0
